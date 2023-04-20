@@ -8,6 +8,7 @@ public class Payments {
 	}
 public void validateUpiPayment()
 {
+	System.out.println("Payments finished");
 	}
 
 }
