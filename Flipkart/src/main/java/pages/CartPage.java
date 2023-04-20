@@ -11,5 +11,9 @@ public class CartPage
 	{
 		System.out.println("code to remove product from cart");
 	}
+	public void validateproductsincart()
+	{
+		System.out.println("code to validate products");
+	}
 
 }
