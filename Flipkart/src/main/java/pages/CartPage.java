@@ -10,6 +10,7 @@ public class CartPage
 	public void removeproductfromcart()
 	{
 		System.out.println("code to remove product from cart");
+		System.out.println("verify the products in cart");
 	}
 	public void validateproductsincart()
 	{
